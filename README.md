@@ -1,5 +1,5 @@
 ##
-https://sweet-paletas-0c33f6.netlify.app
+https://nba-legends-oncu.netlify.app
 ##
 <img src="./src/assets/nba.gif/" width="200px"><br>
 ##
